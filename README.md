@@ -47,7 +47,7 @@ Download [VehicleInterfaces v1.2.5 (2019-03-06)](../../releases/tag/v1.2.5)
 
 ## Release candidate
 
-[VehicleInterfaces v2.0.0-beta.1 (2020-06-16)](../../releases/tag/v2.0.0-beta.1)
+[VehicleInterfaces v2.0.0-rc.1 (2020-06-22)](../../releases/tag/v2.0.0-rc.1)
 
 Uses Modelica Standard Library 4.0.0.
 
